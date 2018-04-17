@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+
+}
+
+.list {
+
+    padding: 30px;
+    width: 300px;
+    border: 1px solid #000;
+
+}
